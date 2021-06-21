@@ -1,0 +1,23 @@
+.smile1
+{
+    display: block;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px 0px 0px 0px;
+    border: 10px solid red;
+}
+.smile2
+{
+    display: block;
+    background-color: aqua;
+    padding: 20px;
+    margin: 0px 220px 0px 180px;
+    border: 10px solid red;
+}
+.smile3
+{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0px 220px 0px 360px;
+    border: 10px solid red;
+}
