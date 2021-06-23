@@ -1,0 +1,16 @@
+html
+{
+    font-size: 0.75em;
+}
+body
+{
+    font-family: "Poppins", sans-serif;
+}
+p.pixel
+{
+    font-size: 16px;
+}
+p.em
+{
+    font-size: 2rem;
+}
